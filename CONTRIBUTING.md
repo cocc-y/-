@@ -6,7 +6,7 @@ and the basics for contributing.
 ## Setup
 
 ```bash
-git clone https://github.com/tridpt/ShopSmart.git
+git clone https://github.com/cocc-y/-.git
 cd ShopSmart
 pip install -r requirements.txt
 cp .env.example .env   # then fill in GEMINI_API_KEY

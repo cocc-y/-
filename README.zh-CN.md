@@ -9,7 +9,7 @@
 ![Flask](https://img.shields.io/badge/Flask-3.0+-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Google-Gemini%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-[![CI](https://github.com/tridpt/ShopSmart/actions/workflows/ci.yml/badge.svg)](https://github.com/tridpt/ShopSmart/actions/workflows/ci.yml)
+[![CI](https://github.com/cocc-y/-/actions/workflows/ci.yml/badge.svg)](https://github.com/cocc-y/-/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## 功能特性
@@ -42,7 +42,7 @@
 ### 1. 克隆并安装
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ShopSmart.git
+git clone https://github.com/cocc-y/-.git
 cd ShopSmart
 
 # 仅运行时依赖
