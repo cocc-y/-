@@ -6,7 +6,7 @@ google-genai==2.14.0
 requests==2.34.2
 beautifulsoup4==4.15.0
 lxml==6.1.0
-ddgs==9.14.4
+ddgs==9.16.1
 bcrypt==5.0.0
 PyJWT==2.13.0
 
